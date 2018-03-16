@@ -1,0 +1,11 @@
+html {height:100%;}
+body {height:100%;}
+div{background-color: #FF9933;
+width:30%;
+
+margin: 1.6%;
+float: left;
+border-radius: 5%;
+}
+div:before{content: "";padding-top: 100%;display: block;}
+
